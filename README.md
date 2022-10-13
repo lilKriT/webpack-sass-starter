@@ -16,3 +16,5 @@ Created by lilKriT.
 - add loaders
 - example, `npm i -D sass style-loader css-loader sass-loader` (only if you use sass though)
 - import the css file in index.js
+- install html webpack plugin `npm i -D html-webpack-plugin`
+- add it to the config
