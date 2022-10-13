@@ -12,3 +12,4 @@ Created by lilKriT.
 - `npm init -y`
 - `npm i -D webpack webpack-cli`
 - add a build script `build: "webpack"` (you can add --mode)
+- create webpack.config.js (like in example)
