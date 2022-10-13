@@ -25,3 +25,4 @@ Created by lilKriT.
 - add webpack-dev-server config in webpack.config
 - add `clean: true` to output
 - add source maps (good for debugging). `devtool: "source-map"` (or inline-source-map)
+- optional: install babel-loader and @babel/core @babel/preset-env and add a module rule for it.
