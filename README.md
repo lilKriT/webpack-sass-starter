@@ -19,3 +19,4 @@ Created by lilKriT.
 - install html webpack plugin `npm i -D html-webpack-plugin`
 - add it to the config
 - create template html file
+- for caching, add `[contenthash]` to the file name
