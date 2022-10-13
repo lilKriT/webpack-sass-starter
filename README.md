@@ -18,3 +18,4 @@ Created by lilKriT.
 - import the css file in index.js
 - install html webpack plugin `npm i -D html-webpack-plugin`
 - add it to the config
+- create template html file
