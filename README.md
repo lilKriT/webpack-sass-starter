@@ -13,3 +13,6 @@ Created by lilKriT.
 - `npm i -D webpack webpack-cli`
 - add a build script `build: "webpack"` (you can add --mode)
 - create webpack.config.js (like in example)
+- add loaders
+- example, `npm i -D sass style-loader css-loader sass-loader` (only if you use sass though)
+- import the css file in index.js
