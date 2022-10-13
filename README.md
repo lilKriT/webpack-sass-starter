@@ -26,3 +26,6 @@ Created by lilKriT.
 - add `clean: true` to output
 - add source maps (good for debugging). `devtool: "source-map"` (or inline-source-map)
 - optional: install babel-loader and @babel/core @babel/preset-env and add a module rule for it.
+- add assets to /src/assets
+- add loader module: rules. (no need to install anything)
+- add `assetModuleFilename: "[name][ext]",` to output
