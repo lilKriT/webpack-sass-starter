@@ -29,3 +29,4 @@ Created by lilKriT.
 - add assets to /src/assets
 - add loader module: rules. (no need to install anything)
 - add `assetModuleFilename: "[name][ext]",` to output
+- optionally, `npm i -D webpack-bundle-analyzer`, then add it as a plugin
