@@ -24,3 +24,4 @@ Created by lilKriT.
 - install webpack-dev-server `npm i -D webpack-dev-server`
 - add webpack-dev-server config in webpack.config
 - add `clean: true` to output
+- add source maps (good for debugging). `devtool: "source-map"` (or inline-source-map)
