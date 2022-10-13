@@ -20,6 +20,7 @@ Created by lilKriT.
 - add it to the config
 - create template html file
 - for caching, add `[contenthash]` to the file name
-- add `"dev": "webpack serve"` script
+- add `"dev": "webpack serve"` script (careful, it runs files from the memory)
 - install webpack-dev-server `npm i -D webpack-dev-server`
 - add webpack-dev-server config in webpack.config
+- add `clean: true` to output
