@@ -30,3 +30,18 @@ Created by lilKriT.
 - add loader module: rules. (no need to install anything)
 - add `assetModuleFilename: "[name][ext]",` to output
 - optionally, `npm i -D webpack-bundle-analyzer`, then add it as a plugin
+
+Shorter list:
+
+- create /src and /dist
+- create index.js in /src
+- `npm init -y`
+- `npm i -D webpack webpack-cli`
+- add loaders you will need `npm i -D style-loader css-loader`
+- `npm i -D html-webpack-plugin webpack-dev-server`
+- optionally `npm i -D webpack-bundle-analyzer`
+- add scripts: `"build": "webpack"` and `"dev": "webpack-serve"`
+- create webpack.config.js from template
+- import the css file in index.js
+- add template.html file
+- add other files types as needed
