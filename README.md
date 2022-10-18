@@ -6,7 +6,7 @@ Created by lilKriT.
 # Steps
 
 - create /src and /dist
-- create index.js in /dist
+- create index.js in /src
 - create index.html in /dist (temporarily)
 - add <script> in the html
 - `npm init -y`
